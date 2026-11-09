@@ -1,0 +1,4 @@
+
+a) O programa esta inicializando um objeto funcionário, com nome "zé"
+b)Por conta que  o numRG e CPF não estão encapsuladas de forma privada, estão em default
+c)Não é permitida por conta que esses atributos, só poderiam ser acessados por um método set/get
