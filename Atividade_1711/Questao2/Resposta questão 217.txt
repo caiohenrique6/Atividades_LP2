@@ -1,0 +1,4 @@
+Resposta questão 2
+
+2. Sobrecarga esta sendo utilizada na classe A com o método m1 e o método m1 requisitando o atributo int h. A sobrescrita esta na classe B no método m1(), esta sobrescrevendo o método m1() da classe mãe A.
+
